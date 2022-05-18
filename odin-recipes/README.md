@@ -1,1 +1,1 @@
-Create a recipe webpage. Using links, lists and heading.
+Recipe project using HTML and CSS
